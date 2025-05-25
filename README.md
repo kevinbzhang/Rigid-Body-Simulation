@@ -1,4 +1,5 @@
 # SSHRBIP: Simulating Solid and Hollow Rigid Bodies on Inclined Planes
+Created by Nishanth Mandala and Kevin Zhang
 
 Welcome to the **SSHBRIP** repository: **Simulating Solid and Hollow Rigid Bodies on Inclined Planes**. This MATLAB project provides an extensive simulation environment for modeling, visualizing, and analyzing the dynamics of rolling bodies such as spheres and cylinders on inclined planes.
 
